@@ -14,3 +14,9 @@ To commit code into github
 To clone code from github
 
 git clone https://github.com/hemavelappan/Basics_on_Github.git
+
+To update code into github from local repository
+
+
+
+
