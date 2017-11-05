@@ -17,6 +17,7 @@ git clone https://github.com/hemavelappan/Basics_on_Github.git
 
 To update code into github from local repository
 
+git push origin https://github.com/hemagitaccount/Basics_on_Github_new.git
 
 
 
