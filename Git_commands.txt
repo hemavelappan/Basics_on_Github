@@ -1,0 +1,16 @@
+To commit code into github
+
+    git init (in the root folder where your code is located)
+
+    git add -A (this will add all the files and folders in your directory to be committed)
+
+    git commit -am "First Project commit"
+
+    git remote add origin git@github.com:YourGithubName/your-repo-name.git (you'll find this address on the GitHub repository you just created under "ssh clone URL" on the main page)
+
+    git push -u origin master
+
+
+To clone code from github
+
+git clone https://github.com/hemavelappan/Basics_on_Github.git
